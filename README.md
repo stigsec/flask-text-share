@@ -20,8 +20,8 @@ This project is a simple Flask-based web application that allows users to upload
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/flask-text-uploader.git
-    cd flask-text-uploader
+    git clone https://github.com/stigsec/flask-text-share.git
+    cd flask-text-share
     ```
 
 2. Install the required Python packages:
